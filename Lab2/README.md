@@ -1,7 +1,5 @@
 # SoftwareDeployment
 
-## Homework Github Repo: https://github.com/SoMoMaS/SoftwareDeployment
-
 ## Simple Node app Github Repo: https://github.com/SoMoMaS/TestNodeAPI
 
 ## Link to azure website: https://nodesampleproject.azurewebsites.net/
