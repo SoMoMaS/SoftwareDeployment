@@ -19,3 +19,5 @@ I needed to run the following script to build both images
 docker-compose up -d
 ```
 
+![Container Running](Part2_Succeeds.png)
+
